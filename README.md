@@ -22,4 +22,4 @@ Only runs on hyperisland.com pages.
 
 The extension works by dropping the edit link into the Chrome developer console. Just click the link to open the edit page.
 
-![](example.png)
+![](images/example.png)
