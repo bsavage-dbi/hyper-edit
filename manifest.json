@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Hyper Admin",
+    "description": "Makes opening the Wordpress edit page even faster. Press alt + cmd + i to open the dev console and find the editor link.",
+    "version": "1.0",
+    "homepage_url": "https://www.hyperisland.com/",
+    "icons": {
+    "16": "images/logo.png",
+    "32": "images/logo.png",
+    "48": "images/logo.png",
+    "128": "images/logo.png"
+  },
+    "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["app.js"]
+    }
+  ],
+    "permissions": [
+        "activeTab"
+    ],
+    "content_security_policy": "script-src 'self' https://www.gstatic.com/; object-src 'self'"
+}
