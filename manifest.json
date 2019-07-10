@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Hyper Admin",
+    "name": "Hyper Edit",
     "description": "Makes opening the Wordpress edit page even faster. Press alt + cmd + i to open the dev console and find the editor link.",
     "version": "1.0",
     "homepage_url": "https://www.hyperisland.com/",
