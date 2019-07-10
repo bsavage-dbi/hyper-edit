@@ -12,12 +12,12 @@
   },
     "content_scripts": [
     {
-      "matches": ["<all_urls>"],
+      "matches": ["*://www.hyperisland.com/*"],
       "js": ["app.js"]
     }
   ],
     "permissions": [
-        "activeTab"
+        "activeTab", "tabs", "*://www.hyperisland.com/*"
     ],
     "content_security_policy": "script-src 'self' https://www.gstatic.com/; object-src 'self'"
 }
