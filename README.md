@@ -13,4 +13,13 @@ Only runs on hyperisland.com pages.
 3. Locate the ZIP file on your computer and unzip it
 4. Click the Load unpacked extension button and select the unzipped folder for your extension to install it
 
-![](https://sayingimages.com/wp-content/uploads/and-youre-welcome-your-meme.png)
+## new version
+
+1. Right click the HI logo and click "Remove from Chrome"
+2. Follow the install steps again
+
+## screenshot
+
+The extension works by dropping the edit link into the Chrome developer console. Just click the link to open the edit page.
+
+![](example.png)
