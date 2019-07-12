@@ -22,4 +22,6 @@ Only runs on hyperisland.com pages.
 
 The extension works by dropping the edit link into the Chrome developer console. Just click the link to open the edit page.
 
-![](images/screenshot.png)
+Click this screenshot to see a tutorial video.
+
+[![](images/screenshot.png)](http://www.youtube.com/watch?v=vCuxdTUrW7Y)
