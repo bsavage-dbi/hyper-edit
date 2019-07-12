@@ -2,7 +2,7 @@
 
 Makes opening the Wordpress edit page even faster. 
 
-Press `alt + cmd + i` to open the dev console and find the editor link.
+Press `alt + cmd + i` to open the dev console, and click the console tab to find the editor link.
 
 Only runs on hyperisland.com pages.
 
