@@ -1,6 +1,6 @@
-const hasRun = false;
-const adminUrl;
 window.onload = function() {
+	let hasRun = false;
+	let adminUrl;
 	if (!hasRun) {
 		const regex = /"pageId":"(.*?)"/g;
 		const found = document.body.innerHTML.match(regex);
