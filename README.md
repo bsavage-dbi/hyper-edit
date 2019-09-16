@@ -2,6 +2,8 @@
 
 Makes opening the Wordpress edit page even faster.
 
+![](images/screenshot2.png)
+
 Click the HI icon and click on the button to open the editor page.
 
 Only runs on `hyperisland.com` pages.
@@ -17,12 +19,6 @@ Only runs on `hyperisland.com` pages.
 
 1. Right click the HI logo and click "Remove from Chrome"
 2. Follow the install steps again
-
-## screenshot
-
-The extension works by generating a button with a link to the edit page in Wordpress. Just click the link to open the edit page.
-
-![](images/screenshot2.png)
 
 ## thanks
 
