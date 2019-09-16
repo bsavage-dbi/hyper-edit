@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Hyper Edit",
-	"description": "Makes opening the Wordpress edit page even faster. Press alt + cmd + i to open the dev console and find the editor link.",
+	"description": "Makes opening the Wordpress edit page even faster. Click the HI icon and click on the button to open the editor page.",
 	"version": "2.1",
 	"homepage_url": "https://github.com/kwaimind/hyper-edit",
 	"icons": {
