@@ -2,7 +2,7 @@
 
 Makes opening the Wordpress edit page even faster.
 
-Press `alt + cmd + i` to open the dev console, and click the console tab to find the editor link.
+Click the HI icon and click on the button to open the editor page.
 
 Only runs on `hyperisland.com` pages.
 
@@ -20,8 +20,10 @@ Only runs on `hyperisland.com` pages.
 
 ## screenshot
 
-The extension works by dropping the edit link into the Chrome developer console. Just click the link to open the edit page.
+The extension works by generating a button with a link to the edit page in Wordpress. Just click the link to open the edit page.
 
-Click this screenshot to see a tutorial video.
+![](images/screenshot2.png)
 
-[![](images/screenshot.png)](http://www.youtube.com/watch?v=vCuxdTUrW7Y)
+## thanks
+
+Thanks to [Simon Busborg](https://codepen.io/simonbusborg/pen/cyxad?editors=1100) for the CSS.
