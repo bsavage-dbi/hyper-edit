@@ -26,4 +26,4 @@ The extension works by generating a button with a link to the edit page in Wordp
 
 ## thanks
 
-Thanks to [Simon Busborg](https://codepen.io/simonbusborg/pen/cyxad?editors=1100) for the CSS.
+Thanks to [Simon Busborg](https://codepen.io/simonbusborg/pen/cyxad?editors=1100) for the CSS and [Kyle Robinson Young](https://www.youtube.com/watch?v=Ipa58NVGs_c) for the tutorial help.
