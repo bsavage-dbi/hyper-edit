@@ -7,7 +7,6 @@ document.addEventListener(
 		let hasRun = false;
 		function getPageId(res) {
 			const buttonLink = document.getElementById('url');
-			const appName = chrome.runtime.getManifest();
 			buttonLink.setAttribute(
 				'href',
 				`https://hyperisland.wpengine.com/wp-admin/post.php?post=${res.adminUrl}&action=edit&lang=en`
