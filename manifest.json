@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Hyper Edit",
 	"description": "Makes opening the Wordpress edit page even faster. Click the HI icon and click on the button to open the editor page.",
-	"version": "2.1",
+	"version": "2.2",
 	"homepage_url": "https://github.com/kwaimind/hyper-edit",
 	"icons": {
 		"16": "images/logo.png",
