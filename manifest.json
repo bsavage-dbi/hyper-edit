@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Hyper Edit",
 	"description": "Makes opening the Wordpress edit page blazing fast 🔥",
-	"version": "2.3",
+	"version": "2.4",
 	"author": "Daniel Reed",
 	"homepage_url": "https://github.com/kwaimind/hyper-edit",
 	"icons": {
@@ -21,6 +21,6 @@
 		"default_popup": "popup.html",
 		"default_title": "Hyper Edit"
 	},
-	"permissions": ["tabs"],
+	"permissions": ["tabs", "activeTab"],
 	"content_security_policy": "script-src 'self' https://www.gstatic.com/; object-src 'self'"
 }
