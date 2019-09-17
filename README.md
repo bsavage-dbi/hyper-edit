@@ -1,24 +1,20 @@
 # hyper-edit 📝
 
-Makes opening the Wordpress edit page even faster.
+Makes opening the Wordpress edit page blazing fast 🔥
 
-![](images/screenshot2.png)
+![hyper-edit](images/screenshot2.png)
 
 Click the HI icon and click on the button to open the editor page.
 
 Only runs on `hyperisland.com` pages.
 
+## about
+
+Hyper Island has a lot of web pages and making edits to a specific page can take ages. Finding the page, searching for it in Wordpress, opening it, etc can take 30-60 seconds. With this extension, you can open the page directly; blazing fast 🔥
+
 ## install
 
-1. Download this repo as a .zip file (green button 👉 Download as zip)
-2. Go to `chrome://extensions/` and check the box for Developer mode in the top right
-3. Locate the ZIP file on your computer and unzip it
-4. Click the Load unpacked extension button and select the unzipped folder for your extension to install it
-
-## new version
-
-1. Right click the HI logo and click "Remove from Chrome"
-2. Follow the install steps again
+Now available on the [Chrome app store](https://chrome.google.com/webstore/detail/hyper-edit/kecfiillgmfoccimdbndgdkolpghboom).
 
 ## thanks
 
