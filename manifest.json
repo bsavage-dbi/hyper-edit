@@ -1,6 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Hyper Edit",
+	"short_name": "Hyper Edit",
 	"description": "Makes opening the Wordpress edit page blazing fast 🔥",
 	"version": "2.6",
 	"author": "Daniel Reed",
