@@ -1,4 +1,4 @@
-# hyper-edit 📝
+# 📝 hyper-edit
 
 Makes opening the Wordpress edit page blazing fast 🔥
 
