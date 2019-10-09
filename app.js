@@ -8,7 +8,7 @@ document.addEventListener(
 			tabUrl = tabs[0].url;
 		});
 		function getPageId(res) {
-			if (!tabUrl.includes('hyperisland.com')) {
+			if (!tabUrl.includes('www.hyperisland.com')) {
 				document.getElementById('heythere').textContent =
 					"Oh no. You're not on a Hyper Island web page 😔";
 				document.getElementById('intro').style.display = 'none';
