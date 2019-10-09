@@ -1,9 +1,25 @@
-//this file is not finished and not used in production
+//logo bs
 
 //chrome.browserAction.setIcon({path: icon});
-chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
-	var currTab = tabs[0];
-	if (currTab) {
-		console.log(window.location);
+
+function error() {
+	if (chrome.runtime.lastError) {
+		console.log(chrome.runtime.lastError.message);
+	}
+}
+
+chrome.tabs.onUpdated.addListener(function(tabId, change, tab) {
+	if (tab.url == undefined) {
+		return;
+	}
+	if (!tab.url.includes('www.hyperisland.com')) {
+		chrome.browserAction.setIcon(
+			{
+				path: 'images/disabled-logo.png'
+			},
+			error
+		);
+	} else {
+		chrome.browserAction.setIcon({ path: 'images/logo.png' }, error);
 	}
 });
