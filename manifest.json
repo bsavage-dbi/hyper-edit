@@ -3,7 +3,7 @@
 	"name": "Hyper Edit",
 	"short_name": "Hyper Edit",
 	"description": "Makes opening the Wordpress edit page blazing fast 🔥",
-	"version": "2.7",
+	"version": "2.8",
 	"author": "Daniel Reed",
 	"homepage_url": "https://github.com/kwaimind/hyper-edit",
 	"icons": {
