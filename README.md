@@ -4,13 +4,14 @@ Makes opening the Wordpress edit page blazing fast 🔥
 
 ![hyper-edit](images/screenshot2.png)
 
-Click the HI icon and then click on the edit button to open the Wordpress editor page.
-
-Only runs on `hyperisland.com` pages.
-
-## about
-
 Hyper Island has a lot of web pages and making edits to a specific page can take ages. Finding the page, searching for it in Wordpress, opening it, etc can take 30-60 seconds. With this extension, you can open the page directly; blazing fast 🔥
+
+How to use it:
+
+1. Click the HI icon 
+2. Click on the edit button to open the Wordpress editor page
+
+This only works on pages starting with `www.hyperisland.com`, and not any of the Hyper Island subdomains like Toolbox, etc. 
 
 ## install
 
