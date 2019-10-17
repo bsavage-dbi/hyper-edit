@@ -4,7 +4,7 @@ Makes opening the Wordpress edit page blazing fast 🔥
 
 ![hyper-edit](images/screenshot2.png)
 
-Click the HI icon and click on the button to open the editor page.
+Click the HI icon and then click on the edit button to open the Wordpress editor page.
 
 Only runs on `hyperisland.com` pages.
 
