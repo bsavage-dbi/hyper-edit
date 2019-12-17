@@ -17,7 +17,7 @@ document.addEventListener(
 				const buttonLink = document.getElementById('url');
 				buttonLink.setAttribute(
 					'href',
-					`https://hyperisland.wpengine.com/wp-admin/post.php?post=${res.adminUrl}&action=edit&lang=en`
+					`https://wp.hyperisland.com/wp-admin/post.php?post=${res.adminUrl}&action=edit&lang=en`
 				);
 			}
 			hasRun = true;
